@@ -1,3 +1,18 @@
+#Target folder
+target/
+
+#.idea folser
+.idea/
+
+#Sensitive
+*.properties
+
+#.iml file
+*.iml
+
+#.DS_Store
+.DS_Store
+
 # Compiled class file
 *.class
 
